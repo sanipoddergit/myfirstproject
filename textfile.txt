@@ -1,1 +1,1 @@
-text file from git .git text file
+text file from git .git text file. git local repository . git
